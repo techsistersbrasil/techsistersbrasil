@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá! Nós somos as Tech Sisters! 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/rIFWIvjtk2X3q6Tu1a/giphy.gif" width="400px"></img>
+</p>
 
 <!--
 **techsistersbrasil/techsistersbrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
