@@ -1,17 +1,6 @@
 # Olá! Nós somos as Tech Sisters! 
 
-Da união de mulheres em transição de carreira, surgiu um grupo de apoio e incentivo da presença feminina na Tecnologia. 
-
-Vamos juntas?
-
 <p align="center">
-<!--   <img src="https://media.giphy.com/media/rIFWIvjtk2X3q6Tu1a/giphy.gif" width="300px"></img> -->
-  <img src="https://media.giphy.com/media/iV3qFFXhxElyerScYI/giphy.gif" width="300px"></img>
-  
-</p>
-
-## Nossas redes
-
   <a href="https://www.instagram.com/techsistersbrasil" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/techsistersbrasil"></a>
 
@@ -29,6 +18,18 @@ Vamos juntas?
   
   <a href="https://dev.to/techsistersbrasil" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/techsistersbrasil"></a>
+</p>
+
+
+Da união de mulheres em transição de carreira, surgiu um grupo de apoio e incentivo da presença feminina na Tecnologia. 
+
+Vamos juntas?
+
+<p align="center">
+<!--   <img src="https://media.giphy.com/media/rIFWIvjtk2X3q6Tu1a/giphy.gif" width="300px"></img> -->
+  <img src="https://media.giphy.com/media/iV3qFFXhxElyerScYI/giphy.gif" width="300px"></img>
+  
+</p>
 
 
 
