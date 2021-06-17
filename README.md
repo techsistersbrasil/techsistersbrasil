@@ -8,7 +8,6 @@ Vamos juntas?
 <!--   <img src="https://media.giphy.com/media/rIFWIvjtk2X3q6Tu1a/giphy.gif" width="300px"></img> -->
   <img src="https://media.giphy.com/media/iV3qFFXhxElyerScYI/giphy.gif" width="300px"></img>
   
-  
 </p>
 
 ## Nossas redes
@@ -27,6 +26,9 @@ Vamos juntas?
 
   <a href="https://chat.whatsapp.com/KXkqvkVADUWIZITGJhsFq1" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://chat.whatsapp.com/KXkqvkVADUWIZITGJhsFq1"></a>
+  
+  <a href="https://dev.to/techsistersbrasil" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/techsistersbrasil"></a>
 
 
 
