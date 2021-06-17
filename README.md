@@ -5,7 +5,10 @@ Da união de mulheres em transição de carreira, surgiu um grupo de apoio e inc
 Vamos juntas?
 
 <p align="center">
-  <img src="https://media.giphy.com/media/rIFWIvjtk2X3q6Tu1a/giphy.gif" width="300px"></img>
+<!--   <img src="https://media.giphy.com/media/rIFWIvjtk2X3q6Tu1a/giphy.gif" width="300px"></img> -->
+  <img src="https://media.giphy.com/media/iV3qFFXhxElyerScYI/giphy.gif" width="300px"></img>
+  
+  
 </p>
 
 ## Nossas redes
