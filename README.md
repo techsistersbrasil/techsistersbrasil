@@ -4,7 +4,7 @@
   <a href="https://www.instagram.com/techsistersbrasil" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/techsistersbrasil"></a>
 
-  <a href="https://discord.gg/RDkDy3tT" target="_blank">
+  <a href="https://discord.gg/gCV4DqqudB" alt="Discord" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
   <a href="https://www.facebook.com/groups/880563505855914" alt="Facebook" target="_blank">
